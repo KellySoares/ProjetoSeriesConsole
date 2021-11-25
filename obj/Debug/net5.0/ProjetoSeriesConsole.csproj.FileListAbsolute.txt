@@ -1,0 +1,16 @@
+A:\Documents\Documentos\ESTUDOS\PÓS GRADUAÇÃO\.NET\ProjetoSeriesConsole\obj\Debug\net5.0\ProjetoSeriesConsole.csproj.AssemblyReference.cache
+A:\Documents\Documentos\ESTUDOS\PÓS GRADUAÇÃO\.NET\ProjetoSeriesConsole\obj\Debug\net5.0\ProjetoSeriesConsole.GeneratedMSBuildEditorConfig.editorconfig
+A:\Documents\Documentos\ESTUDOS\PÓS GRADUAÇÃO\.NET\ProjetoSeriesConsole\obj\Debug\net5.0\ProjetoSeriesConsole.AssemblyInfoInputs.cache
+A:\Documents\Documentos\ESTUDOS\PÓS GRADUAÇÃO\.NET\ProjetoSeriesConsole\obj\Debug\net5.0\ProjetoSeriesConsole.AssemblyInfo.cs
+A:\Documents\Documentos\ESTUDOS\PÓS GRADUAÇÃO\.NET\ProjetoSeriesConsole\obj\Debug\net5.0\ProjetoSeriesConsole.csproj.CoreCompileInputs.cache
+A:\Documents\Documentos\ESTUDOS\PÓS GRADUAÇÃO\.NET\ProjetoSeriesConsole\bin\Debug\net5.0\ProjetoSeriesConsole.exe
+A:\Documents\Documentos\ESTUDOS\PÓS GRADUAÇÃO\.NET\ProjetoSeriesConsole\bin\Debug\net5.0\ProjetoSeriesConsole.deps.json
+A:\Documents\Documentos\ESTUDOS\PÓS GRADUAÇÃO\.NET\ProjetoSeriesConsole\bin\Debug\net5.0\ProjetoSeriesConsole.runtimeconfig.json
+A:\Documents\Documentos\ESTUDOS\PÓS GRADUAÇÃO\.NET\ProjetoSeriesConsole\bin\Debug\net5.0\ProjetoSeriesConsole.runtimeconfig.dev.json
+A:\Documents\Documentos\ESTUDOS\PÓS GRADUAÇÃO\.NET\ProjetoSeriesConsole\bin\Debug\net5.0\ProjetoSeriesConsole.dll
+A:\Documents\Documentos\ESTUDOS\PÓS GRADUAÇÃO\.NET\ProjetoSeriesConsole\bin\Debug\net5.0\ref\ProjetoSeriesConsole.dll
+A:\Documents\Documentos\ESTUDOS\PÓS GRADUAÇÃO\.NET\ProjetoSeriesConsole\bin\Debug\net5.0\ProjetoSeriesConsole.pdb
+A:\Documents\Documentos\ESTUDOS\PÓS GRADUAÇÃO\.NET\ProjetoSeriesConsole\obj\Debug\net5.0\ProjetoSeriesConsole.dll
+A:\Documents\Documentos\ESTUDOS\PÓS GRADUAÇÃO\.NET\ProjetoSeriesConsole\obj\Debug\net5.0\ref\ProjetoSeriesConsole.dll
+A:\Documents\Documentos\ESTUDOS\PÓS GRADUAÇÃO\.NET\ProjetoSeriesConsole\obj\Debug\net5.0\ProjetoSeriesConsole.pdb
+A:\Documents\Documentos\ESTUDOS\PÓS GRADUAÇÃO\.NET\ProjetoSeriesConsole\obj\Debug\net5.0\ProjetoSeriesConsole.genruntimeconfig.cache
